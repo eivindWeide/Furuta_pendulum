@@ -1,5 +1,5 @@
 # Furuta_pendulum
-A program to balance a Furuta Pendulum using full state feedback
+A program to swing up and balance a Furuta Pendulum using full state feedback
 
 ### Compile and run simulation (Linux)
 > javac -cp regler.jar:furuta.jar *.java\
